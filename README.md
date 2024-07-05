@@ -1,4 +1,4 @@
-## Python Basics: f-Strings and Life in Weeks Program
+# Python Basics: f-Strings and Life in Weeks Program
 This repository contains Python programs demonstrating the use of f-strings for string formatting and a program to calculate the number of weeks left until the age of 90.
 
 # Description
